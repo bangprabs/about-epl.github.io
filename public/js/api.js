@@ -1,7 +1,7 @@
 const base_url = "https://api.football-data.org/v2/";
 const id_liga = "2021";
 const headers = {
-    "X-Auth-Token": "368d04e80a184141acad3adeff567fc3"
+    "X-Auth-Token": "secret"
 };
 
 function status(response) {
